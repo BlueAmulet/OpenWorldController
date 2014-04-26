@@ -1,0 +1,16 @@
+[
+{
+  "modid": "openworldcontroller",
+  "name": "OpenWorldController",
+  "description": "Modify the world!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["gamax92"],
+  "credits": "Sangar, for the TileEntity tutorial and OpenComputers",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

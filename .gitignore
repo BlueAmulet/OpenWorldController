@@ -1,0 +1,8 @@
+eclipse
+build
+reference
+.gradle
+.settings
+build
+bin
+.classpath
